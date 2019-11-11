@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,200,300);
+  background(377,146,0);
   rect(0, 500, 1000, 100);
   fill(0)
   let t = frameCount / 80; 
